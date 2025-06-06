@@ -15,7 +15,7 @@
 
 ## 항목
 
-| |  |
+| 분류 | 이동 |
 | --- | --- |
 |  Backend    |  [바로가기]() |
 | Frontend | [바로가기]() |
@@ -72,11 +72,10 @@
 ```
 ## 기여자
 
-| 이름 | 강수진 | 김용명 | 김종명 | 배성훈 | 박성문 | 서주원 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Github | [Github로 이동](https://github.com/kkangssu) | [Github로 이동](https://github.com/kunzatt) | [Github로 이동](https://github.com/jump6746) | [Github로 이동](https://github.com/baehoonbae) | [Github로 이동](https://github.com/SungMoonPark) | [Github로 이동](https://github.com/lifehardmod) |
-
-| 이름 | 윤이영 | 임채준 | 정예영 | 지유림 | 한재서 |
+| | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Github | [Github로 이동](https://github.com/y20ng) | [Github로 이동](https://github.com/dlacowns21) | [Github로 이동](https://github.com/EliteZer0) | [Github로 이동](https://github.com/zyu22) | [Github로 이동](https://github.com/rpeowiqu) |
-`
+| [<img src="https://github.com/kkangssu.png" width="80" height="80"><br/>**강수진**](https://github.com/kkangssu) | [<img src="https://github.com/kunzatt.png" width="80" height="80"><br/>**김용명**](https://github.com/kunzatt) | [<img src="https://github.com/jump6746.png" width="80" height="80"><br/>**김종명**](https://github.com/jump6746) | [<img src="https://github.com/baehoonbae.png" width="80" height="80"><br/>**배성훈**](https://github.com/baehoonbae) | [<img src="https://github.com/SungMoonPark.png" width="80" height="80"><br/>**박성문**](https://github.com/SungMoonPark) | [<img src="https://github.com/lifehardmod.png" width="80" height="80"><br/>**서주원**](https://github.com/lifehardmod) |
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://github.com/y20ng.png" width="80" height="80"><br/>**윤이영**](https://github.com/y20ng) | [<img src="https://github.com/dlacowns21.png" width="80" height="80"><br/>**임채준**](https://github.com/dlacowns21) | [<img src="https://github.com/EliteZer0.png" width="80" height="80"><br/>**정예영**](https://github.com/EliteZer0) | [<img src="https://github.com/zyu22.png" width="80" height="80"><br/>**지유림**](https://github.com/zyu22) | [<img src="https://github.com/rpeowiqu.png" width="80" height="80"><br/>**한재서**](https://github.com/rpeowiqu) |
