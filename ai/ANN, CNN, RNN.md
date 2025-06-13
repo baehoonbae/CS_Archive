@@ -23,7 +23,7 @@
 
 ### CNN
 
-- Convolutional neural network (합성곱 신경망)
+- Convolutional Neural Network (합성곱 신경망)
 - 인간의 시각 피질 구조에서 영감을 받은 모델
 - 합성곱 층 (Convolutional Layer)를 가지는 것이 주요 특징
     - 작은 영역만을 보는 필터(커널)를 사용하여 지역적인 특징(예: 모서리, 색의 변화)이나 중요한 정보를 추출
